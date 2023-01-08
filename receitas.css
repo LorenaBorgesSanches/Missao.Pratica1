@@ -1,0 +1,26 @@
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card-title {
+    text-align: center;
+    font-weight: 100;
+}
+
+.card-body {
+    text-align: justify;
+}
+
+.card-text {
+    text-align: justify;
+}
+
+.card{
+    margin: 1%;
+}
+
+ul{
+    padding: 10px;
+}
